@@ -7,6 +7,10 @@
 		"type": "git",
 		"url": "https://github.com/lino79/kinkajou-kinkajou"
 	},
+	"keywords": [
+		"web-components",
+		"kinkajou"
+	],
 	"scripts": {
 		"build": "babel *.es6 -d . --source-maps"
 	},
