@@ -6,7 +6,7 @@ with custom tags inside (X)HTML markup.
 
 Every custom tag was a graphical component, capable of displaying itself on the browser as HTML.
 
-![Alt Custom component tag](https://github.com/lino79/kinkajou-kinkajou/component.png)
+![Alt Custom component tag](https://github.com/lino79/kinkajou-kinkajou/blob/dev/component.png)
 
 Nowadays there are a lot of cool client-side libraries which do the same thing.
 But I wanted a technology for pure standalone client applications, without any
