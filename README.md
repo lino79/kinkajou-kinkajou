@@ -6,7 +6,7 @@ with custom tags inside (X)HTML markup.
 
 Every custom tag was a graphical component, capable of displaying itself on the browser as HTML.
 
-![Alt Custom component tag](https://github.com/lino79/kinkajou-kinkajou/blob/dev/component.png)
+![Alt Custom component tag](https://github.com/lino79/kinkajou-kinkajou/blob/master/component.png)
 
 Nowadays there are a lot of cool client-side libraries which do the same thing.
 But I wanted a technology for pure standalone client applications, without any
@@ -35,3 +35,14 @@ class App extends Kinkajou.Component {
 
 Kinkajou.render(<App message="Hello World!" />, document.querySelector('body'));
 ```
+
+Clone the application:
+
+```
+git clone https://github.com/lino79/kinkajou-hello-world-app hello-world
+cd hello-world
+npm i
+npm run build
+```
+
+Open the `index.html` in the browser.
