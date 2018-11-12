@@ -36,13 +36,7 @@ class App extends Kinkajou.Component {
 Kinkajou.render(<App message="Hello World!" />, document.querySelector('body'));
 ```
 
-Clone the application:
+### Demo applications
 
-```
-git clone https://github.com/lino79/kinkajou-hello-world-app hello-world
-cd hello-world
-npm i
-npm run build
-```
-
-Open the `index.html` in the browser.
+* [hello-world-app](https://github.com/lino79/kinkajou-hello-world-app)
+* [photo-app](https://github.com/lino79/kinkajou-photo-app)
